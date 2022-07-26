@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/bigdata/CapstoneBuild/target/scala-2.11/stream-stock_2.11-1.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StockData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StockData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamStock.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StreamStock.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamStock$$typecreator12$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StreamStock$$typecreator12$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StockData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StockData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamStock$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StreamStock$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamStock$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StreamStock$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamStock$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StreamStock$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamStock$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StreamStock$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamStock$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StreamStock$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamStock$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bigdata/CapstoneBuild/target/scala-2.11/classes/StreamStock$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
